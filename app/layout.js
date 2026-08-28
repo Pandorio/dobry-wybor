@@ -2,6 +2,7 @@ import { Cormorant } from "next/font/google";
 import Link from "next/link"
 import "./globals.css";
 import Foot from "@/components/foot";
+import Header from "@/components/header";
 
 const cormorant = Cormorant({ subsets: ['latin'] });
 
@@ -21,6 +22,7 @@ export default function RootLayout({ children }) {
           <nav className="">
           
         </nav>
+        <Header/>
         <div className="grow  border-t-[0.5px] border-gray-400/50">
           {children}
         </div>

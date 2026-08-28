@@ -6,10 +6,10 @@ export default function Fifth() {
          <>
             <div className="relative flex items-center justify-center text-white bg-black">   
                 <div className="max-w-8xl mx-auto flex flex-col  ">
-                    <div className="flex items-center justify-center justify-between flex-col md:flex-row ">
+                    <div className="flex items-center justify-between flex-col md:flex-row ">
 
                         <div className="relative w-[60vw] flex flex-col mb:flex-row md:border-r-[0.5px] border-gray-400/50" >
-                            <div className="py-20">
+                            <div className="pt-20 pb-8 md:py-20 border-b-[0.5px] md:border-b-0 mb-5">
                                 <div className="flex gap-2 text-[#B59410] mb-4 text-lg font-semibold">
                                     <p>ODWIEDŹ NAS</p>
                                 </div>
@@ -26,7 +26,7 @@ export default function Fifth() {
                                 </div>
                                 
                                 <div className="md:w-90 md:h-60 sm:w-40 sm:h-20">
-                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2351.0759616715186!2d19.44580657649749!3d51.81159367188416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471bca618aaa395f%3A0xc76cfaef6f52fc06!2zR2VuLiBKw7N6ZWZhIFNvd2nFhHNraWVnbyA0MiwgOTEtNDg1IMWBw7Nkxbo!5e1!3m2!1spl!2spl!4v1787747008000!5m2!1spl!2spl" 
+                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2466.7039290449366!2d19.44581597648917!3d51.81157027188406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471bca6220661307%3A0x7a9277c9508a293f!2sDobry%20Wyb%C3%B3r%20-%20Sk%C5%82ad%20Towar%C3%B3w%20Pysznych!5e0!3m2!1spl!2spl!4v1787915724957!5m2!1spl!2spl"
                                     width="100%"
                                     height="100%"
                                     allowFullScreen loading="lazy" referrerPolicy="strict-origin-when-cross-origin"></iframe>
@@ -45,7 +45,7 @@ export default function Fifth() {
                             </div>
                         </div>
 
-                        <div className="md:ml-10">
+                        <div className="md:ml-10 pb-20">
                             <div className="flex text-[#B59410] mb-4 text-lg font-bold">
                             <p>GODZINY OTWARCIA</p>
                             </div>
