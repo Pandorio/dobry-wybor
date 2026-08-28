@@ -1,9 +1,6 @@
 import Link from "next/link";
 
 export default function Header() {
-
-  const phoneNumber = "+48792555483"
-
   return (
 
 <div className="fixed inset-0 z-10 h-15">
@@ -13,7 +10,7 @@ export default function Header() {
               </Link>
 
               <div className="sm:flex md:hidden flex flex-row gap-x-5 ">
-                <a href={'tel:${phoneNumber}'}>
+                <a href='tel:+48792555483'>
                   <button className="bg-[#B59410] text-black hover:bg-gray-200 py-2 px-3 cursor-pointer"> 
                     Zadzwoń
                   </button>
