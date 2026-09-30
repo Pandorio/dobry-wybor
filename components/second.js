@@ -33,14 +33,14 @@ export default function Second(){
 
             <div className="relative shadow-xs ml-5 mr-5 bg-[#D7C681] sm:w-[60vw] sm:h-[20vh] md:w-[30vw] md:h-[30vh] xl:w-[50vw] xl:h-[40vh] hover:shadow-lg hover:bg-[#C9B878] hover:translate-y-[-10px] transition-all duration-300 ease-in-out flex items-center justify-center font-bold md:text-4xl cursor-pointer flex-col  ">
                 <div className="py-5 md:py-0">
-                    <p className="md:absolute left-10  md:text-2xl xl:text-5xl px-5 xl:px-0 bottom-25">Whisky i mocne alkohole</p>
+                    <p className="md:absolute left-10  md:text-2xl xl:text-5xl px-5 xl:px-0 bottom-25">Destylaty</p>
                     <p className="md:absolute bottom-10 left-10 px-5 text-sm xl:px-0 pr-5 " >Starannie wybrane whisky, rumy, koniaki i alkohole kolekcjonerskie dla osób, które szukają jakości.</p>
                 </div>
             </div>
 
             <div className="relative shadow-xs ml-5 mr-5 bg-[#F2DEA8] sm:w-[60vw] sm:h-[20vh] md:w-[30vw] md:h-[30vh] xl:w-[50vw] xl:h-[40vh] hover:shadow-lg hover:bg-[#C9B878] hover:translate-y-[-10px] transition-all duration-300 ease-in-out flex items-center justify-center font-bold md:text-4xl cursor-pointer flex-col ">
                 <div className="py-5 md:py-0">
-                    <p className="md:absolute left-10  md:text-2xl xl:text-5xl px-5 xl:px-0 bottom-25">Delikatesy</p>
+                    <p className="md:absolute left-10  md:text-2xl xl:text-5xl px-6 xl:px-0 bottom-25">Delikatesy</p>
                     <p className="md:absolute bottom-10  px-5 left-10 text-sm xl:px-0 pr-5">Dodatki, które dopełniają dobry wybór: produkty premium, eleganckie opakowania i gotowe kompozycje.</p>
                 </div>
             </div>
